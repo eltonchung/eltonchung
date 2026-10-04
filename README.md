@@ -8,6 +8,18 @@
 
 ## Featured projects
 
+### [Slow Journey（WJ）— 旅行探索遊戲](https://github.com/eltonchung/slow-journey-showcase)
+
+以散步、攝影與旅行手帳為核心的原生 iOS 遊戲。在山城、海港與森林中交談、觀察與拍照，讓自己的照片參與故事，也留下可以回看的旅程紀錄。目前前三章已接入可玩流程，整體仍持續開發中。
+
+[![Slow Journey：森林探索的 iPhone 模擬器實際操作畫面](https://raw.githubusercontent.com/eltonchung/slow-journey-showcase/main/media/forest-exploration.png)](https://github.com/eltonchung/slow-journey-showcase)
+
+工程重點包括攝影與任務共用證據規則、跨章照片與進度保存，以及避免非同步寫入覆蓋新資料。公開 repository 提供作品畫面、功能與技術設計說明，完整原始碼保留私有。
+
+Swift · SpriteKit · SwiftUI · iOS
+
+[功能介紹](https://github.com/eltonchung/slow-journey-showcase/blob/main/FEATURES.md) · [技術架構](https://github.com/eltonchung/slow-journey-showcase/blob/main/ARCHITECTURE.md) · [畫面展示](https://github.com/eltonchung/slow-journey-showcase/blob/main/GALLERY.md) · [驗證範圍](https://github.com/eltonchung/slow-journey-showcase/blob/main/QUALITY.md)
+
 ### [雀山奇譚 — Taiwan Mahjong](https://github.com/eltonchung/TaiwanMahjong-Showcase)
 
 以 Swift／SwiftUI 開發的單機台灣十六張麻將 iOS App，結合賽事內技能成長、玩家可決定結果的突發事件、具不同打法的 AI 牌友與牌譜回顧。
@@ -43,12 +55,6 @@ React · TypeScript · Vite · Chrome Manifest V3
 Swift 6 · SwiftUI · SwiftData · Core Location · UserNotifications
 
 公開 repository 提供功能與技術設計說明，完整原始碼保留私有。
-
-## Other projects
-
-- **WJ** — 個人遊戲開發專案。
-
-目前尚未在此提供 WJ 的公開展示連結。
 
 ## Background & interests
 
