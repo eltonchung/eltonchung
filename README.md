@@ -28,12 +28,19 @@ React · TypeScript · Vite · Chrome Manifest V3
 
 專案內提供介面截圖、安裝指南、架構說明與測試文件。
 
+### [iBeaconLog — iBeacon 進出紀錄工具](https://github.com/eltonchung/BeaconLogger-Showcase)
+
+依指定 iBeacon 範圍變化建立進出紀錄的 iOS App，整合本機儲存、通知、冷卻與防重複機制，並提供 Beacon 命名、訊號診斷及資料管理功能。
+
+Swift 6 · SwiftUI · SwiftData · Core Location · UserNotifications
+
+公開 repository 提供功能與技術設計說明，完整原始碼保留私有。
+
 ## Other projects
 
 - **WJ** — 個人遊戲開發專案。
-- **iBeaconLog** — 個人 iOS App 專案。
 
-以上專案目前尚未在此提供公開展示連結。
+目前尚未在此提供 WJ 的公開展示連結。
 
 ## Background & interests
 
