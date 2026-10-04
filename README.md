@@ -20,6 +20,14 @@ Swift · SwiftUI · iOS · Game Development
 
 [功能介紹](https://github.com/eltonchung/TaiwanMahjong-Showcase/blob/main/FEATURES.md) · [技術架構](https://github.com/eltonchung/TaiwanMahjong-Showcase/blob/main/ARCHITECTURE.md) · [畫面與影片](https://github.com/eltonchung/TaiwanMahjong-Showcase/blob/main/GALLERY.md) · [驗證範圍](https://github.com/eltonchung/TaiwanMahjong-Showcase/blob/main/QUALITY.md)
 
+### [AI Control Center — 本機 AI 工具管理](https://github.com/eltonchung/ai-control-center)
+
+Windows 桌面工具，集中查看 Ollama、Open WebUI、Hermes Desktop、ComfyUI 與 Tailscale 的狀態，並依各工具的支援範圍提供啟停、版本檢查、更新及備份復原流程。
+
+PowerShell 5.1 · WPF · Python 3.11
+
+公開 repository 提供原始碼、部署與操作文件。
+
 ### [Boardmarks — 書籤工作台](https://github.com/eltonchung/boardmarks)
 
 以 Chrome 原生書籤為基礎的新分頁擴充功能，將工作空間、分類收藏與開啟中的分頁放在同一個畫面。支援拖曳收藏、整個視窗保存、全域搜尋及 Toby 匯入，讓整理好的資料能在下次工作時接著使用。
