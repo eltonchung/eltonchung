@@ -24,7 +24,7 @@ Swift · SpriteKit · SwiftUI · iOS
 
 以 Swift／SwiftUI 開發的單機台灣十六張麻將 iOS App，結合賽事內技能成長、玩家可決定結果的突發事件、具不同打法的 AI 牌友與牌譜回顧。
 
-[![雀山奇譚：iPhone 橫向牌桌與三打追色進度，使用固定示範資料](https://raw.githubusercontent.com/eltonchung/TaiwanMahjong-Showcase/main/media/table-bounty.png)](https://github.com/eltonchung/TaiwanMahjong-Showcase)
+[![雀山奇譚：技能三選一的實際操作畫面，使用固定示範資料](https://raw.githubusercontent.com/eltonchung/TaiwanMahjong-Showcase/main/media/skill-selection.png)](https://github.com/eltonchung/TaiwanMahjong-Showcase)
 
 工程重點包括規則與畫面分離、可取消的背景手牌分析，以及局末保存與資料復原。公開 repository 提供產品與技術展示，完整原始碼保留私有。
 
@@ -36,6 +36,8 @@ Swift · SwiftUI · iOS · Game Development
 
 Windows 桌面工具，集中查看 Ollama、Open WebUI、Hermes Desktop、ComfyUI 與 Tailscale 的狀態，並依各工具的支援範圍提供啟停、版本檢查、更新及備份復原流程。
 
+[![AI Control Center：本機 AI 工具管理功能示意圖](assets/ai-control-center-overview.svg)](https://github.com/eltonchung/ai-control-center)
+
 PowerShell 5.1 · WPF · Python 3.11
 
 公開 repository 提供原始碼、部署與操作文件。
@@ -44,6 +46,8 @@ PowerShell 5.1 · WPF · Python 3.11
 
 以 Chrome 原生書籤為基礎的新分頁擴充功能，將工作空間、分類收藏與開啟中的分頁放在同一個畫面。支援拖曳收藏、整個視窗保存、全域搜尋及 Toby 匯入，讓整理好的資料能在下次工作時接著使用。
 
+[![Boardmarks：書籤工作台 1.0.9 示範畫面](https://raw.githubusercontent.com/eltonchung/boardmarks/main/docs/compact-header-1.0.9.png)](https://github.com/eltonchung/boardmarks)
+
 React · TypeScript · Vite · Chrome Manifest V3
 
 專案內提供介面截圖、安裝指南、架構說明與測試文件。
@@ -51,6 +55,8 @@ React · TypeScript · Vite · Chrome Manifest V3
 ### [iBeaconLog — iBeacon 進出紀錄工具](https://github.com/eltonchung/BeaconLogger-Showcase)
 
 依指定 iBeacon 範圍變化建立進出紀錄的 iOS App，整合本機儲存、通知、冷卻與防重複機制，並提供 Beacon 命名、訊號診斷及資料管理功能。
+
+[![iBeaconLog：iBeacon 進出紀錄流程功能示意圖](assets/ibeaconlog-overview.svg)](https://github.com/eltonchung/BeaconLogger-Showcase)
 
 Swift 6 · SwiftUI · SwiftData · Core Location · UserNotifications
 
