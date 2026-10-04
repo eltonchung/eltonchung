@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img">
+<title>AI Control Center：功能示意圖</title>
+<desc>依公開專案文件繪製的概念圖，非實際操作介面。</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1426"/><stop offset="1" stop-color="#14273a"/></linearGradient><linearGradient id="card" x2="1" y2="1"><stop stop-color="#1e344e"/><stop offset="1" stop-color="#16213b"/></linearGradient><marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8" fill="#6b9ab8"/></marker></defs>
+<rect width="1280" height="720" rx="28" fill="url(#bg)"/>
+<g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang TC, Microsoft JhengHei, sans-serif">
+<text x="56" y="78" font-size="46" fill="#eaf0ff" font-weight="700" text-anchor="start">AI Control Center</text>
+<text x="56" y="119" font-size="23" fill="#a9bdd4" font-weight="400" text-anchor="start">一個入口，整理本機 AI 工具的日常操作與維護</text>
+<rect x="1064" y="46" width="160" height="38" rx="19" fill="#1f334a" stroke="#3c5876"/>
+<text x="1144" y="72" font-size="20" fill="#b7d7ed" font-weight="600" text-anchor="middle">功能示意</text>
+<path d="M456 358 H512 M512 196 V524" fill="none" stroke="#557393" stroke-width="2" />
+<rect x="56" y="214" width="400" height="294" rx="24" fill="url(#card)" stroke="#456687"/>
+<text x="88" y="277" font-size="32" fill="#eaf0ff" font-weight="700" text-anchor="start">本機 AI 主控台</text>
+<text x="88" y="311" font-size="20" fill="#a9bdd4" font-weight="400" text-anchor="start">Windows 工作站</text>
+<rect x="88" y="335" width="160" height="48" rx="12" fill="#213b53" stroke="#385e78"/>
+<text x="168" y="367" font-size="22" fill="#d9f6f5" font-weight="500" text-anchor="middle">狀態健檢</text>
+<rect x="260" y="335" width="160" height="48" rx="12" fill="#213b53" stroke="#385e78"/>
+<text x="340" y="367" font-size="22" fill="#d9f6f5" font-weight="500" text-anchor="middle">啟動／停止</text>
+<rect x="88" y="399" width="160" height="48" rx="12" fill="#213b53" stroke="#385e78"/>
+<text x="168" y="431" font-size="22" fill="#d9f6f5" font-weight="500" text-anchor="middle">版本維護</text>
+<rect x="260" y="399" width="160" height="48" rx="12" fill="#213b53" stroke="#385e78"/>
+<text x="340" y="431" font-size="22" fill="#d9f6f5" font-weight="500" text-anchor="middle">備份／還原</text>
+<text x="88" y="481" font-size="20" fill="#a9bdd4" font-weight="400" text-anchor="start">操作紀錄 · 維護文件</text>
+<path d="M512 196 H564" fill="none" stroke="#557393" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="576" y="158" width="648" height="76" rx="16" fill="#132238" stroke="#314662"/>
+<rect x="598" y="182" width="6" height="28" rx="3" fill="#78dbce"/>
+<text x="624" y="205" font-size="26" fill="#eaf0ff" font-weight="600" text-anchor="start">Ollama</text>
+<text x="946" y="205" font-size="22" fill="#afc3da" font-weight="400" text-anchor="start">本機模型服務</text>
+<path d="M512 278 H564" fill="none" stroke="#557393" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="576" y="240" width="648" height="76" rx="16" fill="#132238" stroke="#314662"/>
+<rect x="598" y="264" width="6" height="28" rx="3" fill="#a6b6ff"/>
+<text x="624" y="287" font-size="26" fill="#eaf0ff" font-weight="600" text-anchor="start">Open WebUI</text>
+<text x="946" y="287" font-size="22" fill="#afc3da" font-weight="400" text-anchor="start">瀏覽器對話入口</text>
+<path d="M512 360 H564" fill="none" stroke="#557393" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="576" y="322" width="648" height="76" rx="16" fill="#132238" stroke="#314662"/>
+<rect x="598" y="346" width="6" height="28" rx="3" fill="#cfaff6"/>
+<text x="624" y="369" font-size="26" fill="#eaf0ff" font-weight="600" text-anchor="start">Hermes Desktop</text>
+<text x="946" y="369" font-size="22" fill="#afc3da" font-weight="400" text-anchor="start">桌面助理與技能</text>
+<path d="M512 442 H564" fill="none" stroke="#557393" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="576" y="404" width="648" height="76" rx="16" fill="#132238" stroke="#314662"/>
+<rect x="598" y="428" width="6" height="28" rx="3" fill="#f0bd85"/>
+<text x="624" y="451" font-size="26" fill="#eaf0ff" font-weight="600" text-anchor="start">ComfyUI</text>
+<text x="946" y="451" font-size="22" fill="#afc3da" font-weight="400" text-anchor="start">影像與影片流程</text>
+<path d="M512 524 H564" fill="none" stroke="#557393" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="576" y="486" width="648" height="76" rx="16" fill="#132238" stroke="#314662"/>
+<rect x="598" y="510" width="6" height="28" rx="3" fill="#8dc4f0"/>
+<text x="624" y="533" font-size="26" fill="#eaf0ff" font-weight="600" text-anchor="start">Tailscale</text>
+<text x="946" y="533" font-size="22" fill="#afc3da" font-weight="400" text-anchor="start">私人遠端連線</text>
+<path d="M56 608 H1224" fill="none" stroke="#2d445e" stroke-width="2" />
+<text x="56" y="648" font-size="19" fill="#9cb1c9" font-weight="400" text-anchor="start">依公開功能繪製；備份與還原依各工具支援範圍。</text>
+<text x="56" y="685" font-size="17" fill="#819bb6" font-weight="400" text-anchor="start">功能概念圖，非實際介面截圖</text>
+<text x="1224" y="680" font-size="20" fill="#c0d1e6" font-weight="500" text-anchor="end">PowerShell · WPF · Python</text>
+</g></svg>
