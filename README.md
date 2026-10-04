@@ -24,7 +24,7 @@ Swift · SpriteKit · SwiftUI · iOS
 
 以 Swift／SwiftUI 開發的單機台灣十六張麻將 iOS App，結合賽事內技能成長、玩家可決定結果的突發事件、具不同打法的 AI 牌友與牌譜回顧。
 
-[![雀山奇譚：技能三選一的實際操作畫面，使用固定示範資料](https://raw.githubusercontent.com/eltonchung/TaiwanMahjong-Showcase/main/media/skill-selection.png)](https://github.com/eltonchung/TaiwanMahjong-Showcase)
+[![雀山奇譚：突破順位破局演出，擷取自公開示範影片](assets/taiwan-mahjong-rupture.png)](https://github.com/eltonchung/TaiwanMahjong-Showcase)
 
 工程重點包括規則與畫面分離、可取消的背景手牌分析，以及局末保存與資料復原。公開 repository 提供產品與技術展示，完整原始碼保留私有。
 
