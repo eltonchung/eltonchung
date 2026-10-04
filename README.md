@@ -2,7 +2,7 @@
 
 **Senior IT Manager · System Development & Integration · Software Engineering**
 
-我是 Elton，一名持續參與軟體開發的資深 IT Manager，現居台灣。工作重心是系統開發與整合、軟體工程及團隊與專案管理，領域涵蓋 FinTech／Payment、Cloud 與資訊安全。
+持續參與軟體開發的 IT Manager，現居台灣。工作重心是系統開發與整合、軟體工程及團隊與專案管理，領域涵蓋 FinTech／Payment、Cloud 與資訊安全。
 
 工作之外，我也開發個人工具、iOS App 與遊戲，並將 AI-assisted Development 用在實作與迭代中。最近持續探索 AI Agents 與 Automation，關注如何讓這些工具融入實際的開發流程。
 
