@@ -6,7 +6,19 @@
 
 工作之外，我也開發個人工具、iOS App 與遊戲，並將 AI-assisted Development 用在實作與迭代中。最近持續探索 AI Agents 與 Automation，關注如何讓這些工具融入實際的開發流程。
 
-## Featured project
+## Featured projects
+
+### [雀山奇譚 — Taiwan Mahjong](https://github.com/eltonchung/TaiwanMahjong-Showcase)
+
+以 Swift／SwiftUI 開發的單機台灣十六張麻將 iOS App，結合賽事內技能成長、玩家可決定結果的突發事件、具不同打法的 AI 牌友與牌譜回顧。
+
+[![雀山奇譚：iPhone 橫向牌桌與三打追色進度，使用固定示範資料](https://raw.githubusercontent.com/eltonchung/TaiwanMahjong-Showcase/main/media/table-bounty.png)](https://github.com/eltonchung/TaiwanMahjong-Showcase)
+
+工程重點包括規則與畫面分離、可取消的背景手牌分析，以及局末保存與資料復原。公開 repository 提供產品與技術展示，完整原始碼保留私有。
+
+Swift · SwiftUI · iOS · Game Development
+
+[功能介紹](https://github.com/eltonchung/TaiwanMahjong-Showcase/blob/main/FEATURES.md) · [技術架構](https://github.com/eltonchung/TaiwanMahjong-Showcase/blob/main/ARCHITECTURE.md) · [畫面與影片](https://github.com/eltonchung/TaiwanMahjong-Showcase/blob/main/GALLERY.md) · [驗證範圍](https://github.com/eltonchung/TaiwanMahjong-Showcase/blob/main/QUALITY.md)
 
 ### [Boardmarks — 書籤工作台](https://github.com/eltonchung/boardmarks)
 
@@ -18,7 +30,7 @@ React · TypeScript · Vite · Chrome Manifest V3
 
 ## Other projects
 
-- **WJ / MJ** — 個人遊戲開發專案。
+- **WJ** — 個人遊戲開發專案。
 - **iBeaconLog** — 個人 iOS App 專案。
 
 以上專案目前尚未在此提供公開展示連結。
