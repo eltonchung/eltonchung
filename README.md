@@ -6,6 +6,14 @@
 
 工作之外，我也開發個人工具、iOS App 與遊戲，並將 AI-assisted Development 用在實作與迭代中。最近持續探索 AI Agents 與 Automation，關注如何讓這些工具融入實際的開發流程。
 
+## Background & interests
+
+- System Development & Integration
+- Software Engineering · Engineering & Project Management
+- FinTech / Payment · Cloud · Information Security
+- AI-assisted Development · AI Agents · Automation
+- PMP · ISO 27001
+
 ## Featured projects
 
 ### [Slow Journey（WJ）— 旅行探索遊戲](https://github.com/eltonchung/slow-journey-showcase)
@@ -61,11 +69,3 @@ React · TypeScript · Vite · Chrome Manifest V3
 Swift 6 · SwiftUI · SwiftData · Core Location · UserNotifications
 
 公開 repository 提供功能與技術設計說明，完整原始碼保留私有。
-
-## Background & interests
-
-- System Development & Integration
-- Software Engineering · Engineering & Project Management
-- FinTech / Payment · Cloud · Information Security
-- AI-assisted Development · AI Agents · Automation
-- PMP · ISO 27001
