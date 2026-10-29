@@ -1,7 +1,7 @@
 # Elton Chung
 
-**資深 IT 主管 · 系統開發與整合 · 軟體工程**  
-**Senior IT Manager · System Development & Integration · Software Engineering**
+**IT 主管 · 系統開發與整合 · 軟體工程**  
+**IT Manager · System Development & Integration · Software Engineering**
 
 持續參與軟體開發的 IT Manager，現居台灣。工作重心是系統開發與整合、軟體工程及團隊與專案管理，領域涵蓋 FinTech／Payment、Cloud 與資訊安全。
 
