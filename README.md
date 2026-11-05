@@ -85,14 +85,9 @@ A browser-based planning tool extended from OpenPlan, combining Gantt scheduling
 
 A Windows control panel for Ollama, Open WebUI, Hermes Desktop, ComfyUI, and Tailscale. It brings service checks, start/stop controls, version maintenance, and supported backup and recovery workflows into one place.
 
-<details>
-<summary>功能概覽（示意圖，非介面截圖） · Functional overview (diagram, not a UI screenshot)</summary>
+[![AI Control Center：本機 AI 工具管理概念架構圖 / AI Control Center: conceptual architecture for local AI tool management](assets/ai-control-center-overview.svg)](https://github.com/eltonchung/ai-control-center)
 
-[![AI Control Center 功能示意圖，非實際 Windows 介面截圖 / AI Control Center functional diagram, not an actual Windows UI screenshot](assets/ai-control-center-overview.svg)](https://github.com/eltonchung/ai-control-center)
-
-*目前展示功能示意圖；尚未加入實際 Windows 主控台截圖。 / A functional diagram is shown here; an actual Windows control-panel screenshot has not yet been added.*
-
-</details>
+*本機 AI 主控台與整合工具的概念架構圖。 / Conceptual architecture of the local AI control panel and its integrated tools.*
 
 [專案與文件 / Repository](https://github.com/eltonchung/ai-control-center) · [操作說明 / User Guide](https://github.com/eltonchung/ai-control-center/blob/main/docs/USER-GUIDE.md)
 
@@ -138,14 +133,9 @@ A desktop and command-line helper that previews daily Redmine time-entry gaps be
 
 An iOS app that logs entry into and exit from specified iBeacon regions, with named beacons, notifications, cooldowns, and duplicate prevention. Records stay on the iPhone, without an account, backend, or GPS route history.
 
-<details>
-<summary>紀錄流程（示意圖，非介面截圖） · Logging workflow (diagram, not a UI screenshot)</summary>
+[![iBeaconLog：進出紀錄功能展示圖 / iBeaconLog: entry and exit logging overview](assets/ibeaconlog-overview.svg)](https://github.com/eltonchung/BeaconLogger-Showcase)
 
-[![iBeaconLog 進出紀錄功能示意圖，非實際 iPhone 介面截圖 / iBeaconLog entry and exit workflow diagram, not an actual iPhone UI screenshot](assets/ibeaconlog-overview.svg)](https://github.com/eltonchung/BeaconLogger-Showcase)
-
-*目前展示功能示意圖；尚未加入實際 iPhone App 截圖。 / A workflow diagram is shown here; actual iPhone app screenshots have not yet been added.*
-
-</details>
+*功能流程示意：感知範圍變化、判定有效事件，並保存在 iPhone 本機。 / Workflow overview: detect region changes, validate events, and save records locally on the iPhone.*
 
 [App Store](https://apps.apple.com/tw/app/ibeaconlog/id6793816179) · [功能與技術展示 / Product & Engineering Showcase](https://github.com/eltonchung/BeaconLogger-Showcase)
 
