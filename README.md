@@ -129,15 +129,15 @@ A desktop and command-line helper that previews daily Redmine time-entry gaps be
 
 `iOS` `SwiftUI` `SwiftData` `Core Location` · **產品與技術展示 / Product & engineering showcase**
 
-為指定 iBeacon 範圍建立進入與離開紀錄，整合具名 Beacon、通知、冷卻與防重複機制。資料留在 iPhone 本機，不需要帳號或後端，也不建立 GPS 移動路線。
+iBeaconLog 將具名 iBeacon 的進出紀錄保存在 iPhone 本機，支援本機通知與防重複冷卻。1.2 版在 iPhone Duo 展開時並排顯示監控狀態與紀錄清單，收合回到單欄後，仍保留篩選條件與已勾選的紀錄。
 
-An iOS app that logs entry into and exit from specified iBeacon regions, with named beacons, notifications, cooldowns, and duplicate prevention. Records stay on the iPhone, without an account, backend, or GPS route history.
+iBeaconLog records arrivals and departures for named beacons on the iPhone, with local notifications and a cooldown to reduce duplicate entries. In version 1.2, the SwiftUI log places monitoring status beside the event list on an unfolded iPhone Duo. Folding back to one column preserves the active filter and selected entries.
 
-[![iBeaconLog：進出紀錄功能展示圖 / iBeaconLog: entry and exit logging overview](assets/ibeaconlog-overview.svg)](https://github.com/eltonchung/BeaconLogger-Showcase)
+[![iPhone Duo 展開時，左側顯示監控狀態、右側列出進出紀錄 / Monitoring status and the event log side by side on an unfolded iPhone Duo](https://raw.githubusercontent.com/eltonchung/BeaconLogger-Showcase/main/assets/iphone-duo-open.png)](https://github.com/eltonchung/BeaconLogger-Showcase)
 
-*功能流程示意：感知範圍變化、判定有效事件，並保存在 iPhone 本機。 / Workflow overview: detect region changes, validate events, and save records locally on the iPhone.*
+*取自 iPhone Duo 模擬器的展開畫面，使用範例進出紀錄。 / Captured on the unfolded iPhone Duo simulator with sample entries.*
 
-[App Store](https://apps.apple.com/tw/app/ibeaconlog/id6793816179) · [功能與技術展示 / Product & Engineering Showcase](https://github.com/eltonchung/BeaconLogger-Showcase)
+[App Store](https://apps.apple.com/tw/app/ibeaconlog/id6793816179) · [操作示範 / Demo GIF](https://github.com/eltonchung/BeaconLogger-Showcase/blob/main/assets/iphone-duo-demo.gif) · [功能與技術展示 / Product & Engineering Showcase](https://github.com/eltonchung/BeaconLogger-Showcase)
 
 ## 目前關注 · Current Focus
 
